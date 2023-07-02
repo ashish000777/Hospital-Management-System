@@ -1,0 +1,1 @@
+It is a hospital management system where you can fix your appointment to a particular doctor and you can also get the schedule of the doctors. Schedule in the sense you can get the time and the days on which the doctor will be available
